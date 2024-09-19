@@ -1,0 +1,13 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\Serki\.npm-global\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v20.16.0
+3 silly config load:file:C:\Users\Serki\.npm-global\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Serki\Desktop\node-express-course\03-task-manager\starter\.npmrc
+5 silly config load:file:C:\Users\Serki\.npmrc
+6 silly config load:file:C:\Users\Serki\.npm-global\etc\npmrc
+7 verbose title npm start
+8 verbose argv "start"
+9 verbose logfile logs-max:10 dir:C:\Users\Serki\Desktop\node-express-course\03-task-manager\starter\$HOME\.npm-chace\_logs\2024-09-09T21_10_27_819Z-
+10 verbose logfile C:\Users\Serki\Desktop\node-express-course\03-task-manager\starter\$HOME\.npm-chace\_logs\2024-09-09T21_10_27_819Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
